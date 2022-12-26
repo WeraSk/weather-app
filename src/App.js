@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           This project was coded by Vira Churylo-Kozlova and is{" "}
           <a
-            href=""
+            href="https://github.com/WeraSk/weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
