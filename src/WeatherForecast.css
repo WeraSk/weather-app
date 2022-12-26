@@ -1,0 +1,17 @@
+
+.WeatherForecast-temperature-min {
+  opacity: 0.6;
+  margin-left: 5px;
+}
+@media (max-width: 600px) {
+ .WeatherForecast {
+  text-align: center;
+  margin-top: 40px;
+}}
+.WeatherForecast {
+  text-align:left;
+ margin:7px;
+    }
+    .WeatherForecast-temperature-min {
+color: rgb(8, 8, 243);
+    }
